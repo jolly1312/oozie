@@ -19,6 +19,7 @@ PLEASE NOTE:
    contrary to U.S. law is prohibited.
 
 --------------------------------------
+test.
 
 NOTE: Oozie 2.3.1 documentation is identical to Oozie 2.3.0
 
